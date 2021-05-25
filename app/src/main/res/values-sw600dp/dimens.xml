@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="endgame_width">500dp</dimen>
+    <dimen name="endgame_height">120dp</dimen>
+    <dimen name="score_label_width">160dp</dimen>
+    <dimen name="score_label_height">24dp</dimen>
+    <dimen name="score_text_size">30sp</dimen>
+    <dimen name="score_bonus_width">200dp</dimen>
+    <dimen name="score_bonus_height">32dp</dimen>
+    <dimen name="restart_button_size">72dp</dimen>
+</resources>

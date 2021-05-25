@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwentyFortyEightME</string>
+    <string name="interstitial_ads_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ads_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ads_app_id_test">ca-app-pub-9057526686789846~7828440247</string>
+    <string name="ads_app_id">ca-app-pub-3298826203194801~5424167599</string>
+    <string name="ads_free">true</string>
+</resources>
